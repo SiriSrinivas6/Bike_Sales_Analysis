@@ -39,7 +39,7 @@ here are the visualizations that are showed in pivot table
 ## Usage
 To view and analyze the data:
 
-1.Open the Excel file named Bike_Sales_Data.xlsx.
+1.Open the Excel file named ![](https://github.com/SiriSrinivas6/Bike_Sales_Analysis/blob/21983f7b0400c25cc557f9e40b48e0f3f35d1c0d/Excel%20Project%20Dataset.xlsx)
 2.Navigate to the respective sheets containing cleaned data and visualizations.
 3.Use filters, charts, and graphs to explore the data and gain insights into bike sales trends.
 
