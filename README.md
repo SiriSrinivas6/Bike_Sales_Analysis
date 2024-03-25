@@ -24,7 +24,7 @@ Sales Volume Over Time: Line chart representing the trend of bike sales volume o
 here are the visualizations that are showed in pivot table
 
 ### Average of Income
-![bike purchased](image_url)
+![bike purchased](Screenshots/1.png)
 
 ### Count of purchased Bike by Distance
 ![bike purchased](image_url)
