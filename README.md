@@ -33,7 +33,7 @@ here are the visualizations that are showed in pivot table
 ![Alt Text](Screenshots/3.png)
 
 
-![Alt Text](image_url)
+![Alt Text](Screenshots/4.png)
 
 
 ## Usage
