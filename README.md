@@ -27,9 +27,10 @@ here are the visualizations that are showed in pivot table
 ![bike purchased](Screenshots/1.png)
 
 ### Count of purchased Bike by Distance
-![bike purchased](image_url)
+![bike purchased](Screenshots/2.png)
 
 ### Count of purchased Bike by Age
+![Alt Text](image_url)
 ![Alt Text](image_url)
 
 
